@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/20cs022arsh.github.io/portfolio/static/css/main.62abef91.css",
+    "main.js": "/20cs022arsh.github.io/portfolio/static/js/main.c9171bfc.js",
+    "static/media/lap.jpg": "/20cs022arsh.github.io/portfolio/static/media/lap.fe0e35e5f288c5d5a4b0.jpg",
+    "index.html": "/20cs022arsh.github.io/portfolio/index.html",
+    "main.62abef91.css.map": "/20cs022arsh.github.io/portfolio/static/css/main.62abef91.css.map",
+    "main.c9171bfc.js.map": "/20cs022arsh.github.io/portfolio/static/js/main.c9171bfc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62abef91.css",
+    "static/js/main.c9171bfc.js"
+  ]
+}
