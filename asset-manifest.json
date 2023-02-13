@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/20cs022arsh.github.io/portfolio/static/css/main.62abef91.css",
-    "main.js": "/20cs022arsh.github.io/portfolio/static/js/main.c9171bfc.js",
-    "static/media/lap.jpg": "/20cs022arsh.github.io/portfolio/static/media/lap.fe0e35e5f288c5d5a4b0.jpg",
-    "index.html": "/20cs022arsh.github.io/portfolio/index.html",
-    "main.62abef91.css.map": "/20cs022arsh.github.io/portfolio/static/css/main.62abef91.css.map",
-    "main.c9171bfc.js.map": "/20cs022arsh.github.io/portfolio/static/js/main.c9171bfc.js.map"
+    "main.css": "/arshadbinkammu.me/portfolio/static/css/main.62abef91.css",
+    "main.js": "/arshadbinkammu.me/portfolio/static/js/main.8b1ff38f.js",
+    "static/media/lap.jpg": "/arshadbinkammu.me/portfolio/static/media/lap.fe0e35e5f288c5d5a4b0.jpg",
+    "index.html": "/arshadbinkammu.me/portfolio/index.html",
+    "main.62abef91.css.map": "/arshadbinkammu.me/portfolio/static/css/main.62abef91.css.map",
+    "main.8b1ff38f.js.map": "/arshadbinkammu.me/portfolio/static/js/main.8b1ff38f.js.map"
   },
   "entrypoints": [
     "static/css/main.62abef91.css",
-    "static/js/main.c9171bfc.js"
+    "static/js/main.8b1ff38f.js"
   ]
 }
